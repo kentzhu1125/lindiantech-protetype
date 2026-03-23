@@ -17,51 +17,21 @@
   position:absolute;
   z-index:0;
 }
-#u2946_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1823px;
-  height:771px;
-}
-#u2946 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1823px;
-  height:771px;
-  display:flex;
-}
-#u2946 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u2946_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
 #u2947_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1326px;
-  height:864px;
+  width:1823px;
+  height:771px;
 }
 #u2947 {
   border-width:0px;
   position:absolute;
-  left:1880px;
-  top:10px;
-  width:1326px;
-  height:864px;
+  left:0px;
+  top:0px;
+  width:1823px;
+  height:771px;
   display:flex;
 }
 #u2947 .text {
@@ -77,7 +47,37 @@
   text-transform:none;
   visibility:hidden;
 }
-#u2948_input {
+#u2948_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1326px;
+  height:864px;
+}
+#u2948 {
+  border-width:0px;
+  position:absolute;
+  left:1880px;
+  top:10px;
+  width:1326px;
+  height:864px;
+  display:flex;
+}
+#u2948 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2948_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2949_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -96,7 +96,7 @@
   background-color:transparent;
   border-color:transparent;
 }
-#u2948_input.disabled {
+#u2949_input.disabled {
   position:absolute;
   left:0px;
   top:0px;
@@ -115,7 +115,7 @@
   background-color:transparent;
   border-color:transparent;
 }
-#u2948_div {
+#u2949_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -130,7 +130,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u2948 {
+#u2949 {
   border-width:0px;
   position:absolute;
   left:2020px;
@@ -139,14 +139,14 @@
   height:30px;
   display:flex;
 }
-#u2948 .text {
+#u2949 .text {
   position:absolute;
   align-self:flex-start;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2948_div.disabled {
+#u2949_div.disabled {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -161,11 +161,11 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u2948.disabled {
+#u2949.disabled {
 }
-.u2948_input_option {
+.u2949_input_option {
 }
-#u2949_div {
+#u2950_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -181,7 +181,7 @@
   box-shadow:none;
   text-align:right;
 }
-#u2949 {
+#u2950 {
   border-width:0px;
   position:absolute;
   left:1910px;
@@ -191,19 +191,19 @@
   display:flex;
   text-align:right;
 }
-#u2949 .text {
+#u2950 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2949_text {
+#u2950_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u2950_input {
+#u2951_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -222,7 +222,7 @@
   background-color:transparent;
   border-color:transparent;
 }
-#u2950_input.disabled {
+#u2951_input.disabled {
   position:absolute;
   left:0px;
   top:0px;
@@ -241,7 +241,7 @@
   background-color:transparent;
   border-color:transparent;
 }
-#u2950_div {
+#u2951_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -256,7 +256,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u2950 {
+#u2951 {
   border-width:0px;
   position:absolute;
   left:2020px;
@@ -265,14 +265,14 @@
   height:30px;
   display:flex;
 }
-#u2950 .text {
+#u2951 .text {
   position:absolute;
   align-self:flex-start;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2950_div.disabled {
+#u2951_div.disabled {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -287,7 +287,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u2950.disabled {
+#u2951.disabled {
 }
-.u2950_input_option {
+.u2951_input_option {
 }
