@@ -77,13 +77,13 @@
 ._流程形状 {
 }
 ._连接符 {
-  font-family:'苹方 中等', '苹方', sans-serif;
+  font-family:"苹方", sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
 }
 ._形状 {
-  font-family:'微软雅黑', sans-serif;
+  font-family:"微软雅黑", sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -111,7 +111,7 @@
   color:#409EFF;
 }
 ._文本段落1 {
-  font-family:'苹方 常规', '苹方 中等', '苹方', sans-serif;
+  font-family:"苹方", sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -245,7 +245,7 @@
   font-style:normal;
 }
 ._形状2 {
-  font-family:'微软雅黑', sans-serif;
+  font-family:"微软雅黑", sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -303,7 +303,7 @@
 ._单元格1 {
 }
 .droplist1 {
-  font-family:'苹方 中等', '苹方', sans-serif;
+  font-family:"苹方", sans-serif;
   font-weight:400;
   font-style:normal;
   color:#C7C7C7;
